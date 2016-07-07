@@ -16,4 +16,11 @@ public class Account {
 	}
 	}
 	
+	public void accountreg(int accno)
+	{
+		System.out.println("The account Number is:"+accno);
+		System.out.print("Hi welcome to AccountRegister!!!!");
+	}
+	
+	
 }

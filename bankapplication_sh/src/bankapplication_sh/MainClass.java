@@ -8,6 +8,7 @@ public class MainClass {
 	System.out.println("you are inside account..");
 	account.accountnumber(12);
     account.displaymodify();
+    account.accountreg(12);
 	display();
 	
 	}
