@@ -5,8 +5,9 @@ public class MainClass {
 	public static void main(String arg[])
 	{
 	Account account=new Account();
+	System.out.println("you are inside account..");
 	account.accountnumber(12);
-	System.out.println("you r inside account..");
+    account.displaymodify();
 	display();
 	
 	}
